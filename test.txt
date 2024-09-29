@@ -1,1 +1,6 @@
 Welcome to Git session
+
+Hello from 3RI tech
+
+Studying amend in git
+
